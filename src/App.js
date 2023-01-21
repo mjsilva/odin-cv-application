@@ -10,7 +10,7 @@ class App extends Component {
       mobile: "0456784659",
       email: "andrew@spike.com",
       about:
-        "A software developer with 5 years of experience in web technologies is likely to be well-versed in a variety of programming languages and frameworks commonly used for building web applications, such as HTML, CSS, JavaScript, and various web development frameworks like React, Angular or VueJS. They should also have experience working with databases, version control systems, and development tools such as debugging and testing software. Additionally, they likely have experience working in a team environment, collaborating with designers, project managers, and other developers to deliver high-quality web applications.",
+        "I am a software developer with 5 years of experience in web technologies, I possess a deep understanding of web development and have hands-on experience in multiple programming languages such as HTML, CSS, JavaScript, and web development frameworks like React, Angular or VueJS. I am well-versed in working with databases, version control systems, and development tools such as debugging and testing software. I have experience collaborating with designers, project managers, and other developers in a team environment to deliver high-quality web applications that meet the needs of the client.",
     };
   }
 
